@@ -488,7 +488,7 @@ section {
 }
 
 .contact .row form .inputBox input {
-    width: 45rem;
+    width: 100%;
     padding: 2rem;
     font-size: 1.7rem;
     color: #fff;
@@ -588,7 +588,7 @@ section {
     }
 
     .home {
-        background-position: right;
+        background-position: left;
         justify-content: center;
         text-align: center;
     }

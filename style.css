@@ -218,7 +218,7 @@ section {
     display: flex;
     justify-content: right;
     align-items: center;
-    background: url('https://img.freepik.com/free-photo/cup-coffee-with-pile-coffee-beans_1112-438.jpg?w=1380&t=st=1684970577~exp=1684971177~hmac=8ebcedb9d0f1bfd033ca276951fdf9f70d049a9f47f9ebcea066d65402e828cb') no-repeat;
+    background: url(./assets/images/home-background.jpg) no-repeat;
     background-size: cover;
     background-position: center;
 }

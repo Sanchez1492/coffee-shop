@@ -216,7 +216,7 @@ section {
 .home {
     min-height: 100vh;
     display: flex;
-    justify-content: right;
+    justify-content: left;
     align-items: center;
     background: url(./assets/images/home-background.jpg) no-repeat;
     background-size: cover;
